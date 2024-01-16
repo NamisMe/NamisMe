@@ -1,13 +1,11 @@
-</div>
-
 ### Machine Learning Engineer 💻
-- Machine Learing Engineer
+    - Machine Learing Engineer
   
 ### Interest 🧐
-- Generative AI
-- LLM(Large Language Model)
-- MLOps(Machine Learing Operation)
-- AWS
+    - Generative AI
+    - LLM(Large Language Model)
+    - MLOps(Machine Learing Operation)
+    - AWS
 
 ### Tech Stacks 🛠️
 <div align=left>
