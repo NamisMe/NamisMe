@@ -1,11 +1,11 @@
 ### Machine Learning Engineer 💻
-    - Machine Learing Engineer
+- AI, Machine Learning 개발자가 되고싶은 남영진입니다!
   
 ### Interest 🧐
-    - Generative AI
-    - LLM(Large Language Model)
-    - MLOps(Machine Learing Operation)
-    - AWS
+- Generative AI
+- LLM(Large Language Model)
+- MLOps(Machine Learing Operation)
+- AWS
 
 ### Tech Stacks 🛠️
 <div align=left>
